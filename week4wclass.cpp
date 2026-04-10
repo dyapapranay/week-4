@@ -230,7 +230,7 @@ int main() {
             default:
                 cout << "Invalid Choice! Try Again.\n";
         }
-    } while (choice != 9);
+    } while (choice != 0);
 
     return 0;
 }
